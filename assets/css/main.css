@@ -679,6 +679,19 @@ padding-bottom: 20%;
 }
   
 }
+@media (max-width:1326px) {
+
+ 
+  .results .results-left h2{
+width: 100%;
+font-size: 30px;
+}
+.results .results-left p{
+width: 100%;
+font-size: 10px;
+}
+
+}
  
 @media (max-width:991px) {
 
